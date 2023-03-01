@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+}
+body {
+  /* background-image:   url("dp.jpg" ) ; */
+  /* background-repeat: no-repeat; */
+
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: linear-gradient(#999da5, #243b55);
+}
+
+.main {
+  background-color: aqua;
+  padding-left: 108px;
+  display: flex;
+  margin-top: 140px;
+  margin-left: 214px;
+  margin-right: 50px;
+  padding-right: 108px;
+  width: 400px;
+  height: 300px;
+}
+.btn {
+  color: rgb(26, 26, 29);
+  box-shadow: 0ex;
+  text-decoration: solid;
+  background-color: rgb(202, 197, 188);
+}
+.second {
+  color: rgb(26, 26, 29);
+  box-shadow: 0ex;
+  text-decoration: solid;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  height: 50px;
+  width: 100px;
+  /* display: flex; */
+}
